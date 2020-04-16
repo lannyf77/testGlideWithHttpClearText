@@ -1,0 +1,214 @@
+<resources>
+
+    <dimen name="dimen_visual_card_horizontal_margin">16dp</dimen>
+    <dimen name="summary_icon_padding_top">14dp</dimen>
+    <dimen name="header_view_left_right_padding">24dp</dimen>
+
+    <!-- Text Size -->
+    <dimen name="small_text_body">16sp</dimen>
+    <dimen name="small_text_title">16sp</dimen>
+    <dimen name="small_text_header">24sp</dimen>
+    <dimen name="medium_text_body">17sp</dimen>
+    <dimen name="medium_text_title">18sp</dimen>
+    <dimen name="medium_text_header">26sp</dimen>
+    <dimen name="large_text_body">19sp</dimen>
+    <dimen name="large_text_title">20sp</dimen>
+    <dimen name="large_text_header">28sp</dimen>
+    <dimen name="content_view_title_line_spacing">2.5dp</dimen>
+    <dimen name="author_bio_line_spacing">3.5dp</dimen>
+
+    <!-- Stream font sizes -->
+    <dimen name="category_font_size">14sp</dimen>
+    <dimen name="source_font_size">14sp</dimen>
+    <dimen name="read_more_font_size">14sp</dimen>
+    <dimen name="title_font_size">21sp</dimen>
+    <dimen name="title_line_spacing">2dp</dimen>
+    <dimen name="summary_font_size">16sp</dimen>
+    <dimen name="summary_line_spacing">2dp</dimen>
+    <dimen name="breaking_news_row_padding">16dp</dimen>
+    <dimen name="breaking_news_row_margin_left">24dp</dimen>
+    <dimen name="breaking_news_row_margin_right">24dp</dimen>
+    <dimen name="breaking_news_sticky_height">66dp</dimen>
+    <dimen name="breaking_news_button_height">26dp</dimen>
+    <dimen name="breaking_news_button_width">68dp</dimen>
+    <dimen name="toast_margin_top">20dp</dimen>
+
+    <!-- Comments -->
+    <dimen name="comments_error_toast_margin_top">60dp</dimen>
+
+    <!-- DRAG N DROP LISTVIEW -->
+
+    <!-- Before/After Card dimensions -->
+    <dimen name="before_after_content_margin_top">10dp</dimen>
+
+    <!-- Poll Card dimensions -->
+    <dimen name="shimmer_text_view_size">92dp</dimen>
+    <dimen name="poll_card_content_margin_top">10dp</dimen>
+    <dimen name="poll_card_line_left_margin">10dp</dimen>
+
+    <!--New Card dimensions-->
+    <dimen name="card_margin_top">0dp</dimen>
+    <dimen name="card_margin_bottom">0dp</dimen>
+    <dimen name="card_margin_for_shadow">2dp</dimen>
+    <dimen name="large_card_image_height">240dp</dimen>
+    <dimen name="bottom_progress_bar_cell_height">30dp</dimen>
+    <dimen name="bottom_progress_bar_size">20dp</dimen>
+
+    <!-- New Thumb Content dimensions -->
+    <dimen name="thumb_content_margin_top">10dp</dimen>
+
+    <!-- New Video Content dimensions -->
+    <dimen name="video_content_margin_top">12dp</dimen>
+    <dimen name="video_play_icon_height">77.333dp</dimen>
+    <dimen name="video_play_icon_width">80dp</dimen>
+
+    <!-- New Gallery Content dimensions -->
+    <dimen name="gallery_content_margin_top">10dp</dimen>
+
+    <!--Header layout-->
+    <dimen name="header_category_margin_top">14dp</dimen>
+    <dimen name="header_category_margin_left">12dp</dimen>
+    <dimen name="header_category_margin_right">12dp</dimen>
+
+    <dimen name="header_title_margin_top">0dp</dimen>
+    <dimen name="header_title_extra_line_spacing">0dp</dimen>
+    <dimen name="header_placeholder_height">2dp</dimen>
+
+    <!-- Comments icon dimensions -->
+    <dimen name="dpsdk_comment_icon_width">28dp</dimen>
+    <dimen name="dpsdk_comment_icon_height">28dp</dimen>
+    <dimen name="dpsdk_comment_padding_right">6dp</dimen>
+    <dimen name="dpsdk_comment_padding_top">4dp</dimen>
+    <dimen name="dpsdk_comment_padding_left">6dp</dimen>
+    <dimen name="dpsdk_comment_padding_bottom">4dp</dimen>
+
+    <!-- Share icon dimensions -->
+    <dimen name="dpsdk_share_icon_width">28dp</dimen>
+    <dimen name="dpsdk_share_icon_height">26dp</dimen>
+
+    <!-- Footer layout -->
+    <dimen name="footer_comment_num_margin_right">0dp</dimen>
+    <dimen name="footer_comment_icon_margin_right">14dp</dimen>
+    <dimen name="footer_comment_icon_width">30dp</dimen>
+    <dimen name="footer_comment_icon_height">28dp</dimen>
+    <dimen name="footer_author_width">30dp</dimen>
+    <dimen name="footer_author_height">30dp</dimen>
+    <dimen name="footer_author_signature_height">40dp</dimen>
+    <dimen name="footer_author_signature_width">124dp</dimen>
+    <dimen name="footer_author_signature_margin_left">-12dp</dimen>
+    <dimen name="footer_margin_left">@dimen/header_category_margin_left</dimen>
+    <dimen name="footer_margin_right">@dimen/comment_carousel_container_margin_right</dimen>
+    <dimen name="footer_height">42dp</dimen>
+    <dimen name="footer_share_heart_icon_padding">4dp</dimen>
+    <dimen name="footer_heart_icon_margin_right">14dp</dimen>
+    <dimen name="footer_provider_margin_top_bottom">6dp</dimen>
+    <dimen name="footer_time_margin">12dp</dimen>
+
+    <dimen name="shimmer_text_radius">1dp</dimen>
+
+    <dimen name="card_additional_padding_top">4dp</dimen>
+
+    <!-- Breaking News -->
+    <dimen name="breaking_news_text_size">14sp</dimen>
+    <dimen name="breaking_news_storyline_text_size">12sp</dimen>
+    <dimen name="breaking_news_layout_height">66dp</dimen>
+    <dimen name="breaking_news_title_extra_line_space">4dp</dimen>
+    <dimen name="breaking_news_element_top_bottom_margin">10dp</dimen>
+    <dimen name="breaking_news_element_left_right_margin">14dp</dimen>
+    <dimen name="breaking_news_timestamp_margin_top_first">6dp</dimen>
+    <dimen name="breaking_news_timestamp_margin_top">12dp</dimen>
+    <dimen name="breaking_news_button_margin">14dp</dimen>
+    <dimen name="breaking_news_body_right_margin">13dp</dimen>
+
+    <!-- Category Pager -->
+    <dimen name="pager_strip_height">56dp</dimen>
+    <dimen name="dp_pager_tab_text_size">20sp</dimen>
+
+
+    <!-- Frost background -->
+    <dimen name="frost_background_radius">7dp</dimen>
+
+    <!-- Magazine article view -->
+
+    <!-- Settings -->
+
+    <!-- Article image view -->
+
+    <!-- (Storyline, Live Coverage) Stream Header -->
+
+    <!-- Live Coverage Stream -->
+
+    <!-- Follow Button-->
+    <dimen name="follow_button_stream_text_size">12sp</dimen>
+    <dimen name="follow_card_header_margin_bottom">4dp</dimen>
+    <dimen name="follow_button_margin_left">16dp</dimen>
+    <dimen name="follow_button_stream_padding_left_right">10dp</dimen>
+    <dimen name="follow_button_stream_padding_between">1dp</dimen>
+
+    <!-- slideshow height -->
+    <dimen name="slideshow_caption_max_height">180dp</dimen>
+
+    <!-- Page margin -->
+    <dimen name="custom_view_pager_page_margin">4dp</dimen>
+
+    <!-- Video preplay icon -->
+    <dimen name="video_preplay_icon_height">40dp</dimen>
+    <dimen name="video_preplay_icon_width">40dp</dimen>
+
+    <!-- Storyline Header Container -->
+
+    <!-- Comment Carousel -->
+    <dimen name="comment_carousel_container_margin_right">14dp</dimen>
+
+    <!-- (Storyline, live coverage) Follow Button -->
+    <dimen name="follow_button_stream_width_unfollow">74dp</dimen>
+    <dimen name="follow_button_stream_width_following">27dp</dimen>
+
+    <!-- Storyline Slideshow -->
+
+    <!-- User avatar top commenter -->
+    <dimen name="default_card_avatar_top_commenter_width">28dp</dimen>
+    <dimen name="default_card_avatar_top_commenter_height">27dp</dimen>
+
+    <!-- User avatar -->
+    <dimen name="avatar_small_badge_padding">2dp</dimen>
+    <dimen name="default_card_avatar_text_size">18sp</dimen>
+
+    <dimen name="card_inner_vertical_spacing">12dp</dimen>
+    <dimen name="default_card_elevation">1dp</dimen>
+    <dimen name="card_padding_left">16dp</dimen>
+    <dimen name="card_padding_right">16dp</dimen>
+    <dimen name="login_logo_top_margin">150dp</dimen>
+
+    <!-- stream card publisher image(logo) dimensions -->
+    <dimen name="dp_stream_card_publisher_image_height">20dp</dimen>
+    <dimen name="dp_stream_card_publisher_image_margin_bottom">9dp</dimen>
+    <dimen name="dp_stream_card_publisher_image_margin_top">12dp</dimen>
+    <dimen name="dp_stream_card_publisher_image_max_width">75dp</dimen>
+
+    <!-- Used for calculation for requested image sizes for stream-->
+    <dimen name="large_thumbnail_height">140dp</dimen>
+    <dimen name="regular_thumbnail_height">130dp</dimen>
+    <dimen name="small_thumbnail_height">70dp</dimen>
+    <dimen name="small_logo_height">10dp</dimen>
+    <dimen name="regular_logo_height">20dp</dimen>
+    <dimen name="author_height">20dp</dimen>
+
+    <dimen name="ad_max_width">190dp</dimen>
+	<dimen name="article_detail_pencil_ad_margin_bottom">5dp</dimen>
+
+    <!-- twitter sample -->
+    <dimen name="social_avatar_size">36dp</dimen>
+    <dimen name="social_logo_size">32dp</dimen>
+    <dimen name="social_content_padding">20dp</dimen>
+    <dimen name="twitter_left_row_width">@dimen/social_avatar_size</dimen>
+    <dimen name="twitter_normal_margin">8dp</dimen>
+    <dimen name="twitter_small_margin">3dp</dimen>
+    <dimen name="twitter_play_bt">30dp</dimen>
+    <dimen name="twitter_verified_icon">14dp</dimen>
+    <dimen name="twitter_comment_txt_size">12sp</dimen>
+    <dimen name="twitter_corner_radius">8dp</dimen>
+    <dimen name="twitter_line_spacing">12dp</dimen>
+    <dimen name="twitter_quoted_padding">16dp</dimen>
+
+</resources>
